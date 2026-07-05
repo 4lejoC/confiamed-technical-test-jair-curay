@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ServicioItemsTrabajo/ServicioItemsTrabajo/ServicioItemsTrabajo.csproj" />
+  <Project Path="../ServicioManejoUsuarios/ServicioManejoUsuarios/ServicioManejoUsuarios.csproj" />
+</Solution>

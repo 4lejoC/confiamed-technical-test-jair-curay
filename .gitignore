@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.slnx.user
+*.userosscache
+*.sln.docstates
+
+# Local agent data
+.agents/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+
+# .NET
+*.rsuser
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.aps
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Documents
+*.docx
+
+# Legacy solution files
+ServicioManejoUsuarios/ServicioManejoUsuarios.slnx
+ServicioItemsTrabajo/ServicioItemsTrabajo.slnx
